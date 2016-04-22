@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih03livygoog/tliviipatavinih03livygoog_0053.png"; bbox 0 0 523 896; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 149 68 487 115">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 149 68 487 115">
+     <span class='ocr_line' id='line_1_1' title="bbox 150 68 398 87; baseline 0.008 -4"><span class='ocrx_word' id='word_1_1' title='bbox 150 71 169 87; x_wconf 67' lang='lat' dir='ltr'>,g</span> <span class='ocrx_word' id='word_1_2' title='bbox 261 69 284 86; x_wconf 93' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_3' title='bbox 300 68 398 86; x_wconf 61' lang='lat' dir='ltr'>111le</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 149 94 487 115; baseline 0.021 -5"><span class='ocrx_word' id='word_1_4' title='bbox 149 94 487 115; x_wconf 62' lang='lat' dir='ltr'>danum.uqaufmauf·1··dffl··⁹··ff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 147 115 487 180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 147 115 487 180">
+     <span class='ocr_line' id='line_1_3' title="bbox 147 115 487 180; baseline 0.03 -28"><span class='ocrx_word' id='word_1_5' title='bbox 147 115 487 180; x_wconf 50' lang='grc' dir='ltr'>ἕᾹᾨἙΡ-ίειῒὼίὲἓω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 148 156 438 180; baseline 0.024 -8"><span class='ocrx_word' id='word_1_6' title='bbox 148 157 265 177; x_wconf 60' lang='lat' dir='ltr'>&amp;temanit-</span> <span class='ocrx_word' id='word_1_7' title='bbox 277 156 438 180; x_wconf 49' lang='lat' dir='ltr'>namu-ww</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 143 178 487 774">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 143 178 487 774">
+     <span class='ocr_line' id='line_1_5' title="bbox 143 178 487 774; baseline 0 122"><span class='ocrx_word' id='word_1_8' title='bbox 143 178 487 774; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih03livygoog/tliviipatavinih03livygoog_0200.png"; bbox 0 0 523 896; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 127 365 148">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 42 127 365 148">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 127 365 148; baseline 0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 42 130 105 143; x_wconf 71' lang='lat' dir='ltr'><em>nneeu</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 112 128 163 147; x_wconf 64' lang='lat' dir='ltr'><strong>vstigia</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 169 128 222 148; x_wconf 67' lang='lat' dir='ltr'><em>sequa.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 241 127 309 143; x_wconf 60' lang='lat' dir='ltr'>ultimum</span> <span class='ocrx_word' id='word_1_5' title='bbox 316 128 365 143; x_wconf 64' lang='lat' dir='ltr'><strong>oraio-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 42 270 368 376">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 42 270 368 371">
+     <span class='ocr_line' id='line_1_2' title="bbox 311 270 368 292; baseline 0 -5"><span class='ocrx_word' id='word_1_6' title='bbox 311 270 368 292; x_wconf 65' lang='grc' dir='ltr'><strong>’,μὶ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 42 351 285 376; baseline 0.005 -9"><span class='ocrx_word' id='word_1_7' title='bbox 42 351 285 376; x_wconf 54' lang='lat' dir='ltr'><strong>:hmwfflmmfflpmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 42 412 368 453">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 42 412 368 453">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 412 368 435; baseline -0.006 -5"><span class='ocrx_word' id='word_1_8' title='bbox 42 414 81 431; x_wconf 72' lang='lat' dir='ltr'>ribus.</span> <span class='ocrx_word' id='word_1_9' title='bbox 91 412 267 434; x_wconf 58' lang='lat' dir='ltr'><strong>nauffinna-apuam»,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 275 413 368 435; x_wconf 47' lang='lat' dir='ltr'><strong>inflamma-n</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 434 367 453; baseline 0.006 -2"><span class='ocrx_word' id='word_1_11' title='bbox 42 435 102 452; x_wconf 59' lang='lat' dir='ltr'>dra-ulos,</span> <span class='ocrx_word' id='word_1_12' title='bbox 111 434 335 453; x_wconf 53' lang='lat' dir='ltr'><strong>mmmmm:</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 343 435 367 451; x_wconf 72' lang='lat' dir='ltr'><strong>nd-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

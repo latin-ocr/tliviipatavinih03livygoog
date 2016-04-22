@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih03livygoog/tliviipatavinih03livygoog_0539.png"; bbox 0 0 523 896; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 671 459 721">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 671 459 721">
+     <span class='ocr_line' id='line_1_1' title="bbox 92 699 459 721; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 383 700 459 717; x_wconf 55' lang='grc' dir='ltr'>«Ἐξ-ἑ</span> <span class='ocrx_word' id='word_1_2' title='bbox 92 699 362 721; x_wconf 54' lang='grc' dir='ltr'>,ἓξε-..Ἑηξτέἓω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 115 671 458 701; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 426 680 458 695; x_wconf 59' lang='lat' dir='ltr'>Es</span> <span class='ocrx_word' id='word_1_4' title='bbox 175 678 415 701; x_wconf 57' lang='grc' dir='ltr'>ξξῈοΒι-Ξὲἓμ</span> <span class='ocrx_word' id='word_1_5' title='bbox 115 671 159 684; x_wconf 70' lang='grc' dir='ltr'>..ζ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 896 0 896">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 896 0 896">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 896 0 896; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 0 896 0 896; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 93 37 353 57">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 93 37 353 57">
+     <span class='ocr_line' id='line_1_4' title="bbox 93 37 353 57; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 288 37 353 52; x_wconf 56' lang='lat' dir='ltr'>hau?</span> <span class='ocrx_word' id='word_1_8' title='bbox 246 37 281 53; x_wconf 69' lang='lat'>3.—</span> <span class='ocrx_word' id='word_1_9' title='bbox 198 37 233 52; x_wconf 57' lang='grc' dir='ltr'>ων,</span> <span class='ocrx_word' id='word_1_10' title='bbox 93 40 124 57; x_wconf 67' lang='lat'>2-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
